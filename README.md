@@ -3,7 +3,7 @@
 </h1>
 
 ## :iphone: Mobile preview
-![](https://github.com/ellismarjr/proffy/blob/master/images-preview/proffy-preview.gif)
+![](https://github.com/ellismarjr/picpay-clone/blob/master/preview/picpay.gif)
 
 <h4 align="center">
   App build with Expo using React Native.
