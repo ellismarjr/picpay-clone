@@ -35,7 +35,7 @@ $ cd picpay-clone
 # Install dependencies
 $ yarn
 
-# Execute frontend web
+# Execute App
 $ yarn start
 ```
 
